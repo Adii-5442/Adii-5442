@@ -6,7 +6,7 @@
  <p>
  <h3 align="left">GitHub Trophies:</h3>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-     <img src="https://github-profile-trophy.vercel.app/?username=darkfire5442&margin-w=20&column=8&row=1&theme=matrix&no-frame=false" alt="darkfire5442" width="1540"/>
+     <img src="https://github-profile-trophy.vercel.app/?username=darkfire5442&margin-w=10&column=7&row=1&theme=matrix&no-frame=false" alt="darkfire5442" width="1540" height="190"/>
   </a>
 </p>
 <h3 align="left">Programming Languages:</h3>
