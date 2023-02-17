@@ -1,10 +1,5 @@
-![Header](./your-header-image-name.png)
-<p align="center">
-  <img src="https://github.com/Darkfire5442.png" height="200" width="200">
-</p>
-<h1 align="center">Hey, I'm Adii</h1>
-<h4 align="center">A Software Developer from India</h4>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darkfire5442&label=Profile%20views&color=0e75b6&style=flat" alt="darkfire5442" /> </p>
+![Header](./github-header-image.png)
+
 <h3 align="center">Passion is energy. Feel the power that comes from focusing on what excites you</h3>
 
 
