@@ -20,7 +20,10 @@
 <p align="left">
 <a href="https://dev.to/darkfire5442" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="darkfire5442" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aditya-singh-8b769b225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-singh-8b769b225" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17427890" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17427890" height="30" width="40" /></a>
 <a href="https://instagram.com/adii_5442" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adii_5442" height="30" width="40" /></a>
 </p>
+<a href="https://stackoverflow.com/users/17427890/aditya-singh" target="_blank">
+<img alt="StackOverflow" height="40"
+src="https://stackoverflow-badge.vercel.app/?userID=17427890" />
+</a>
 
