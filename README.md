@@ -1,12 +1,12 @@
 ![Header](./github-header-image.png)
 <h3 align="center">Passion is energy. Feel the power that comes from focusing on what excites you</h3>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darkfire5442&theme=merko" alt="darkfire5442" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darkfire5442&show_icons=true&locale=en&layout=compact&theme=merko" alt="darkfire5442" /></p>
-<p align = "right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darkfire5442&show_icons=true&locale=en&theme=merko" alt="darkfire5442" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adii-5442&theme=merko" alt="Adii-5442" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Adii-5442&show_icons=true&locale=en&layout=compact&theme=merko" alt="Adii-5442" /></p>
+<p align = "right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Adii-5442&show_icons=true&locale=en&theme=merko" alt="Adii-5442" /></p>
  <p>
  <h3 align="left">GitHub Trophies:</h3>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-     <img src="https://github-profile-trophy.vercel.app/?username=darkfire5442&margin-w=10&column=7&row=1&theme=dark&no-frame=false" alt="darkfire5442" width="1540"/>
+     <img src="https://github-profile-trophy.vercel.app/?username=Adii-5442&margin-w=10&column=7&row=1&theme=dark&no-frame=false" alt="Adii-5442" width="1540"/>
   </a>
 </p>
 <h3 align="left">Programming Languages:</h3>
@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/darkfire5442" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="darkfire5442" height="30" width="40" /></a>
+<a href="https://dev.to/Adii-5442" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Adii-5442" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aditya-singh-8b769b225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-singh-8b769b225" height="30" width="40" /></a>
 <a href="https://instagram.com/adii_5442" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adii_5442" height="30" width="40" /></a>
 </p>
@@ -26,4 +26,3 @@
 <img alt="StackOverflow" height="40"
 src="https://stackoverflow-badge.vercel.app/?userID=17427890" />
 </a>
-
